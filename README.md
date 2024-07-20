@@ -1,15 +1,15 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=b72cab&section=header&reversal=false"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=9932CC&section=header&reversal=false"/>
 <br>
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=b72cab&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Nicole;I'm+21+years+old;I'm+a+Frontend+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=9932CC&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Nicole;I'm+21+years+old;I'm+a+Frontend+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
 
 <br>
 <br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikki-sl&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikki-sl&theme=modern-lilac2&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 </div>
 
@@ -97,7 +97,7 @@
 
 <p align="centre"><b>Visitors Count</b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnikki-sl&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnikki-sl&s=50&c=9932CC&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 <br>
 </div>
 
