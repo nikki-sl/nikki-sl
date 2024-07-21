@@ -35,7 +35,7 @@
 <br> 
 <br> 
 
-![snake animation](https://github.com/nikki-sl/nikki-sl/blob/output/github-contribution-grid-snake2.svg)
+![snake gif](https://github.com/nikki-sl/nikki-sl/blob/output/github-contribution-grid-snake.svg)
 
 
 
