@@ -32,24 +32,7 @@
   <a href="https://www.behance.net/nicolesousa8" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="behance" ></a>
 </div>
 
-<br> 
-<br> 
 
-![snake gif](https://github.com/nikki-sl/nikki-sl/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nikki-sl&theme=modern-lilac2&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
-</div>
-
-
-#
-<---Cobra --->
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikki-sl/nikki-sl/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikki-sl/nikki-sl/output/github-contribution-grid-snake-dark.svg">
@@ -57,22 +40,8 @@
 </picture>
 
 
-
 <div align="center">
-  
-<br>
-<br>
-<br>
-<br>
-
-<p align="centre"><b>Visitors Count</b></p> 
-  
+<br><br>
+<p align="centre"><b>Visitors Count</b></p>   
 <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fnikki-sl&s=50&c=9932CC&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
-<br>
 </div>
-
-
-
-
-
-
